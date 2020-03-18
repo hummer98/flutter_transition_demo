@@ -1,0 +1,2 @@
+# flutter_transition_demo
+Flutterでのメッセージングしながらの画面遷移デモ
